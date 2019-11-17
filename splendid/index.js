@@ -7,7 +7,7 @@ const config = {
       replacement: '[art-deco](https://art-deco.github.io)',
     },
   ],
-  // output: 'docs',
+  output: '.',
   // appDir: 'splendid',
 
   // to generate sitemaps, use either folder or domain website.
